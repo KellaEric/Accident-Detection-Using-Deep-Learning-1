@@ -1,7 +1,7 @@
 # Accident Detection using Deep Learning
 <b>A CCTV Camera Accident Detector</b>
 
-
+Authur: 'Kella Eric Mwinwule'
 <h4>Table of Contents</h4>
 
 [Summary](#Summary)<br /> 
@@ -58,11 +58,6 @@ You can install Conda for python which resolves all the dependencies for machine
 3) Finally, run `model.py` for testing your model.
 
 
-### Contributors
-
-##### 1) [Ankush Jain](https://github.com/ankush17100/)
-##### 2) [Ritwik Singh](https://github.com/ritwik-singh)
-##### 3) [Garima Gupta](https://github.com/Garimagupta85)
 
 <a name="References"/>
 <h3>References</h3>
